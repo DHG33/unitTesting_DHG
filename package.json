@@ -6,6 +6,21 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scttzth/node-js-game-app-unit-tests.git"
+  },
+  "keywords": [
+    "node",
+    "aws",
+    "codebuild"
+  ],
+  "author": "Thomas Scott (AWS)",
+  "license": "MIT-0",
+  "bugs": {
+    "url": "https://github.com/scttzth/node-js-game-app-unit-tests/issues"
+  },
+  "homepage": "https://github.com/scttzth/node-js-game-app-unit-tests#readme",
   "dependencies": {
     "chai": "4.3.4",
     "mocha": "8.4.0",
